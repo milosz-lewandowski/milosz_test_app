@@ -1,0 +1,1 @@
+//funkcje do pobierania
