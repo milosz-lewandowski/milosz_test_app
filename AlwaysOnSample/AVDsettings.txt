@@ -1,0 +1,101 @@
+
+
+Name: Android_Wear_Round_API_28
+
+CPU/ABI: Wear OS Intel Atom (x86)
+
+Path: C:\Users\milos\.android\avd\Android_Wear_Round_API_28.avd
+
+Target: android-wear [Wear OS] (API level 28)
+
+Skin: AndroidWearRound
+
+SD Card: 512M
+
+fastboot.chosenSnapshotFile:
+
+runtime.network.speed: full
+
+hw.accelerometer: yes
+
+hw.device.name: wear_round
+
+hw.lcd.width: 320
+
+hw.initialOrientation: Portrait
+
+image.androidVersion.api: 28
+
+tag.id: android-wear
+
+hw.mainKeys: yes
+
+hw.camera.front: None
+
+avd.ini.displayname: Android Wear Round API 28
+
+hw.gpu.mode: auto
+
+hw.ramSize: 512
+
+PlayStore.enabled: true
+
+fastboot.forceColdBoot: no
+
+hw.cpu.ncore: 4
+
+hw.keyboard: yes
+
+hw.sensors.proximity: yes
+
+hw.dPad: no
+
+hw.lcd.height: 320
+
+vm.heapSize: 32
+
+skin.dynamic: yes
+
+hw.device.manufacturer: Google
+
+hw.gps: yes
+
+hw.audioInput: yes
+
+image.sysdir.1: system-images\android-28\android-wear\x86\
+
+hw.keyboard.lid: yes
+
+showDeviceFrame: yes
+
+hw.camera.back: None
+
+AvdId: Android_Wear_Round_API_28
+
+hw.lcd.density: 240
+
+hw.arc: false
+
+hw.device.hash2: MD5:fdb62b5690f7e6ac566f0f32db0001f1
+
+fastboot.forceChosenSnapshotBoot: no
+
+fastboot.forceFastBoot: yes
+
+hw.trackBall: no
+
+hw.battery: yes
+
+hw.sdCard: yes
+
+tag.display: Wear OS
+
+runtime.network.latency: none
+
+disk.dataPartition.size: 2G
+
+hw.sensors.orientation: yes
+
+avd.ini.encoding: UTF-8
+
+hw.gpu.enabled: yes
